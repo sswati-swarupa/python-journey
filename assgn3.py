@@ -1,0 +1,5 @@
+a = int(input("enter the num: "))
+b = float(input("enter the num2: "))
+a1 = float(a)
+print(type(a1))
+print("avg: ", a1+b)
